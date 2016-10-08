@@ -1,0 +1,15 @@
+{
+  "name": "dank-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dank's adjusted sunburst theme because the standard one has a horrible yellow highlight.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/dank-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
